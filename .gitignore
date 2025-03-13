@@ -1,0 +1,9 @@
+Debug
+Release
+CMakeFiles
+SharedMemoryLove.dir
+x64
+CMakeCache.txt
+*.vcxproj*
+*.sln
+*.cmake
